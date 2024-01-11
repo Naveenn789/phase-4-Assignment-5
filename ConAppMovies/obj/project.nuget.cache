@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FKfUVD8rnfnpC3H72dLL0YMEUBOzIY4tJ9mdYK5cs+htMsUrxEGIJ7H4mehbKDWRHXJGchayXV5FvZmrT7DyWQ==",
+  "success": true,
+  "projectFilePath": "C:\\Mphasis\\Phase-4\\Day-5\\Assesment\\ConAppMovies\\ConAppMovies\\ConAppMovies.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\navee\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.4\\microsoft.visualstudio.azure.containers.tools.targets.1.19.4.nupkg.sha512"
+  ],
+  "logs": []
+}
