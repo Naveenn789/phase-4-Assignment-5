@@ -61,5 +61,10 @@ static void RetriveByTittle(List<Movies> movies)
             Console.Write(m.budget + "\t");
             Console.WriteLine("\n");
         }
+        else
+        {
+            Console.WriteLine("Movie Not Found");
+        }
+            
     }
 }
